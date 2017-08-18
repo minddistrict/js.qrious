@@ -8,7 +8,7 @@ import os
 # For example, a packaging bugfix release version 1.4.4 of the
 # js.jquery package would be version 1.4.4-1 .
 
-version = '4.0.2'
+version = '4.0.3.dev0'
 
 
 def read(*rnames):
